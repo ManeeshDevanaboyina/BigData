@@ -44,5 +44,9 @@ buildNumber.properties
 #ignore .idea,.vscode & .gitignore
 
 .idea/
+*.xml
+
 .vscode/
-.gitignore
+*.json
+
+
