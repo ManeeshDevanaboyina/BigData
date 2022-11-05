@@ -43,6 +43,6 @@ buildNumber.properties
 
 #ignore .idea,.vscode & .gitignore
 
-.idea
-.vscode
+.idea/
+.vscode/
 .gitignore
