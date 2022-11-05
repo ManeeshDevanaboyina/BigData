@@ -40,3 +40,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+#ignore .idea,.vscode & .gitignore
+
+.idea
+.vscode
+.gitignore
